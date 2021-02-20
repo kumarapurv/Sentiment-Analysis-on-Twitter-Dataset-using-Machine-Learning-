@@ -14,7 +14,7 @@ The task is to build a model that will determine the text's tone (positive, nega
 The data is uploaded in this repository. Download [train.csv](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-/blob/main/train.csv).
 
 ## Dependencies
-This project is built in Python. Mentioned below are are the required libraries:
+This project is built in Python. Mentioned below are the required libraries:
 ```
 numpy
 pandas
@@ -27,7 +27,7 @@ seaborn
 To utilize better visualization techniques, this project was built over a Jupyter notebook on Google Colab.
 
 ## Results
-Given below is the ROC-AUC (Area under curve) graph of all models used.
+Given below is the ROC-AUC (area under curve) graph of all models used.
 
 ![ROC-AUC Curve of all models](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-/blob/main/results/rocauc%20comp.png)
 
