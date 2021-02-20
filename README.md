@@ -24,3 +24,12 @@ seaborn
 To utilize better visualization techniques, this project was built over a Jupyter notebook on Google Colab.
 
 ## Results
+Given below is the ROC-AUC (Area under curve) graph of all models used.
+
+![ROC-AUC Curve of all models](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-/blob/main/results/rocauc%20comp.png)
+
+We can clearly see that Logistic Regression has the best AOC, and therefore more analysis were performed on this model. See notebbok.
+
+![Confusion Matrix of Logistic Regression Model](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-/blob/main/results/conf%20logistic.png)
+
+Similar results of other models can be found in the notebook.
