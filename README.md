@@ -10,6 +10,9 @@ Determining the emotional coloring of twits using various Machine Learning model
 A Kaggle competition inspires this project. The dataset was downloaded from the [official website](https://www.kaggle.com/c/twitter-sentiment-analysis2) of this competition.
 The task is to build a model that will determine the text's tone (neutral, positive, negative). To do this, you will need to train the model on the existing data (train.csv). The resulting model will have to determine the class (neutral, positive, negative) of new texts (test data that were not used to build the model) with maximum accuracy.
 
+## Data
+The data is uploaded in this repository. Download [train.csv](https://github.com/kumarapurv/Sentiment-Analysis-on-Twitter-Dataset-using-Machine-Learning-/blob/main/train.csv).
+
 ## Dependencies
 This project is built in Python. Mentioned below are are the required libraries:
 ```
